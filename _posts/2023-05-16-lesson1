@@ -1,0 +1,19 @@
+# FastAI Course Lesson 1
+Through watching Jeremy's video for Lesson 1, these are my key findings:
+* Using deep learning, tasks that were previously considered impossible are now able to be done extremely easily (in a matter of minutes on a laptop).
+* In traditional image processing, it was difficult to determine the features required to solve a problem (i.e., for classifying something). Deep networks are able to 'learn' these features, taking out the complexity.
+* The FastAI library is built on the PyTorch library.
+* The course will focus on the *practical* side of machine learning and will not dive *too* deep into the theory.
+* Can apply machine learning for not just recognition, but also segmentation, tabular analysis and collaborative filtering.
+* Deep learning has applications in many fields.
+* High-level overview of a neural network:
+*insert image here*
+
+I have also gotten comfortable with basic aspects of the FastAI library through Jeremy's examples using Jupyter notebooks. In particular, I have gained an understanding of:
+* Datablocks in FastAI
+
+## Notes about the Jupyter Notebook
+*The 00-is-it-a-bird notebook looks like it could be useful for Question 2 of the assignment - I will most likely look into this as a base code.*
+
+The example uses a pre-defined machine learning model: `resnet18`.
+
