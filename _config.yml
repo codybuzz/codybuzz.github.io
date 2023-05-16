@@ -6,9 +6,9 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Edit _config.yml to set your title!
-description: This is where the description of your site will go. You should change it by editing the _config.yml file. It can be as long as you like! Happy blogging... ❤
-github_username: jph00
+title: Cody Burnett ELEC4630 Blog
+description: This is a blog to detail my learnings from the UQ Image Processing and Computer Vision (ELEC4630) Course. It will primarily focus on the FastAI component of the course.
+github_username: codybuzz
 
 # Email and twitter are optional:
 email:
