@@ -1,4 +1,3 @@
 # About
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
-
+This blog will be primarily used for detailing my learnings of the FastAI course, which is apart of UQ's Image Processing and Computer Vision course.
