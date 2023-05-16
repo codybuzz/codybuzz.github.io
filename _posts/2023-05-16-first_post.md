@@ -14,6 +14,7 @@ Here is an example image:
 
 ## Tables
 Here is an example table:
+
 | Column 1 | Column 2 |
 |-|-|
 | A thing | Another thing |
