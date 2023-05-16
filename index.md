@@ -1,7 +1,6 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
-
+## ELEC4630 FastAI Blog
+Hello and welcome to this blog. My name is Cody Burnett and this blog will be used to detail my learnings from the FastAI Course.
 ![Image of fast.ai logo](images/logo.png)
 
-## This is a title
-
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+## Content
+To view the content related to my blog posts, see FastAI's website: [link to fast.ai](https://www.fast.ai).
